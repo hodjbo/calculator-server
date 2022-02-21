@@ -1,0 +1,6 @@
+com\hodbenor\project\calculatorserver\service\ServerKeepAliveThread.class
+com\hodbenor\project\calculatorserver\service\CalculatorService.class
+com\hodbenor\project\calculatorserver\CalculatorServerApplication.class
+com\hodbenor\project\calculatorserver\service\CalculatorManager.class
+com\hodbenor\project\calculatorserver\service\ServerCalculatorThread.class
+com\hodbenor\project\calculatorserver\service\CalculatorServiceImpl.class
